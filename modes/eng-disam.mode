@@ -1,0 +1,1 @@
+lt-proc -w '/Users/himanshu/GSOC/Apertium_MT/apertium-eng/eng.automorf.bin' | cg-conv -a -l | vislcg3 --trace -g '/Users/himanshu/GSOC/Apertium_MT/apertium-eng/apertium-eng.eng.rlx'
